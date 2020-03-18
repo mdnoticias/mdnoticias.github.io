@@ -1,0 +1,17 @@
+<!DOCTYPE htlm>
+<htlm>
+<meta http-equiv="Content-Type" content="text/htlm; charset=utf-8"> 
+<body>
+
+	<h1 style="text-align:center;">Esse é o começo de um site incrível, meu amor</h1>
+
+	<p style="text-align:center;">Eu te amo, meu amor!</p>
+	<p style="text-align:center;">Vamos lutar bastante para conseguir o que queremos, e vamos conseguir!</p>
+	<center>
+		<a href="https://www.youtube.com/watch?v=hC-0RxO_NUg" target="_blank">
+			<img src="imagens/perfil.jpeg">
+		</a>
+	</center>
+
+<body>
+</htlm>
